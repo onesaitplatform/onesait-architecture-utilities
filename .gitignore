@@ -1,0 +1,7 @@
+.openapi*
+
+Jenkinsfile
+podTemplate.yaml
+settings.xml
+
+sources/README.md
