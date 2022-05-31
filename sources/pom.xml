@@ -3,7 +3,7 @@
     <artifactId>onesait-architecture-utilities</artifactId>
     <packaging>jar</packaging>
     <name>onesait-architecture-utilities</name>
-    <version>0.1.0</version>
+    <version>0.0.1</version>
 
     <parent>
         <groupId>com.minsait.onesait.architecture</groupId>
